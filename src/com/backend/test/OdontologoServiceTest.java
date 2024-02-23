@@ -72,6 +72,8 @@ public class OdontologoServiceTest {
 
         assertNotNull(odontologos);
         assertEquals(2, odontologos.size());
+
+        
         assertEquals(odontologoListados.get(0).getNombre(), "Jorginho");
         assertEquals(odontologoListados.get(1).getNombre(), "Lionel");
 
