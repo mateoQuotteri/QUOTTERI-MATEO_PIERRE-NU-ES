@@ -1,0 +1,11 @@
+[2024-02-23 16:05:14] [ INFO ] [OdontologoDaoMemoria:32] Odontologo guardado: 
+Id: 1 - Apellido Lopez - Nombre: Jorginho - Numero de matricula: 2245
+[2024-02-23 16:05:14] [ INFO ] [OdontologoDaoMemoria:32] Odontologo guardado: 
+Id: 2 - Apellido Messi - Nombre: Lionel - Numero de matricula: 2246
+[2024-02-23 16:05:14] [ INFO ] [OdontologoDaoH2:83] Listado de odontologos obtenido: [
+Id: 1 - Apellido Quotteri - Nombre: Mateo - Numero de matricula: 1145, 
+Id: 2 - Apellido Nuñez - Nombre: Pierre - Numero de matricula: 1146]
+[2024-02-23 16:05:14] [ INFO ] [OdontologoDaoH2:42] Odontologo almacenado: 
+Id: 3 - Apellido Quotteri - Nombre: Mateo - Numero de matricula: 1145
+[2024-02-23 16:05:14] [ INFO ] [OdontologoDaoH2:42] Odontologo almacenado: 
+Id: 4 - Apellido Nuñez - Nombre: Pierre - Numero de matricula: 1146
